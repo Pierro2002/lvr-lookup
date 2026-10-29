@@ -1,0 +1,194 @@
+{
+  "current": 0.0034196393225175256,
+  "land": 0.005623181550623609,
+  "sector": 0.000289301002757811,
+  "samples": [
+    {
+      "id": 1873308,
+      "address": "130 Rintoul Street, Berhampore  6023",
+      "lv": 15422000.0,
+      "cv": 68272000.0,
+      "category": "Base - Full services with water meter (multi)",
+      "current": 233465.62,
+      "proposed": 106471.86,
+      "current_residual": 0.004173083492787555,
+      "proposed_residual": -0.00393399856693577
+    },
+    {
+      "id": 1129299,
+      "address": "78 Rolleston Street, Mt Cook  6021",
+      "lv": 475000.0,
+      "cv": 870000.0,
+      "category": "Base - Full services SLC",
+      "current": 2975.08,
+      "proposed": 2922.7,
+      "current_residual": -0.006210590247519576,
+      "proposed_residual": -0.003108945510120975
+    },
+    {
+      "id": 1067902,
+      "address": "1 - 292B Main Road, Tawa  5028",
+      "lv": 195000.0,
+      "cv": 650000.0,
+      "category": "Base - Full services SLN",
+      "current": 2222.77,
+      "proposed": 1284.56,
+      "current_residual": 0.004440363608409825,
+      "proposed_residual": -0.006054164181023225
+    },
+    {
+      "id": 1065856,
+      "address": "3 Coates Street, Tawa  5028",
+      "lv": 420000.0,
+      "cv": 820000.0,
+      "category": "Base - Full services SLN",
+      "current": 2804.1,
+      "proposed": 2598.97,
+      "current_residual": -0.004244464370913192,
+      "proposed_residual": 0.006926476678927429
+    },
+    {
+      "id": 1191562,
+      "address": "48 Constable Street, Newtown  6021",
+      "lv": 8140000.0,
+      "cv": 13500000.0,
+      "category": "Base - Full services SLC",
+      "current": 46165.13,
+      "proposed": 49678.26,
+      "current_residual": -0.0008539865957573056,
+      "proposed_residual": -0.0013593066178145818
+    },
+    {
+      "id": 1125064,
+      "address": "21 Marion Street, Te Aro  6011",
+      "lv": 3500000.0,
+      "cv": 3500000.0,
+      "category": "Base - Vacant/Derelict Land",
+      "current": 55013.08,
+      "proposed": 55119.29,
+      "current_residual": 43044.342371188664,
+      "proposed_residual": 34425.60106316503
+    },
+    {
+      "id": 1065854,
+      "address": "25 Collins Avenue, Tawa  5028",
+      "lv": 465000.0,
+      "cv": 690000.0,
+      "category": "Base - Full services SLN",
+      "current": 2359.55,
+      "proposed": 2814.4,
+      "current_residual": -0.0011325370924168965,
+      "proposed_residual": 0.002887057132738846
+    },
+    {
+      "id": 1191926,
+      "address": "135 Victoria Street, Te Aro  6011",
+      "lv": 9800000.0,
+      "cv": 55400000.0,
+      "category": "Base - Full service with water meter (multi) SLC",
+      "current": 189448.02,
+      "proposed": 71134.46,
+      "current_residual": 0.0015325290733017027,
+      "proposed_residual": 0.005251105903880671
+    },
+    {
+      "id": 1131662,
+      "address": "3 Hutchison Road, Newtown  6021",
+      "lv": 9710000.0,
+      "cv": 15100000.0,
+      "category": "Base - Full services SLC",
+      "current": 51636.55,
+      "proposed": 58969.54,
+      "current_residual": -0.0037700146349379793,
+      "proposed_residual": 0.00200180181855103
+    },
+    {
+      "id": 1791989,
+      "address": "32 Florence Street, Newtown  6021",
+      "lv": 11800000.0,
+      "cv": 68000000.0,
+      "category": "Base - Full service with water meter (multi) SLC",
+      "current": 232535.47,
+      "proposed": 86026.01,
+      "current_residual": -0.003931191749870777,
+      "proposed_residual": -0.00048488973698113114
+    },
+    {
+      "id": 1931174,
+      "address": "57 - 166 Victoria Street, Te Aro  6011",
+      "lv": 39000.0,
+      "cv": 105000.0,
+      "category": "Base - No sewerage or water SLN",
+      "current": 359.06,
+      "proposed": 249.68,
+      "current_residual": -0.002128864340193104,
+      "proposed_residual": -0.0006857638909139041
+    },
+    {
+      "id": 1991112,
+      "address": "2 Carmel Terrace, Grenada Village  6037",
+      "lv": 4070000.0,
+      "cv": 19700000.0,
+      "category": "Base - Rural without services SLN",
+      "current": 67366.9,
+      "proposed": 28585.58,
+      "current_residual": 0.005346404737792909,
+      "proposed_residual": 0.0013346330379135907
+    },
+    {
+      "id": 1933861,
+      "address": "14 Sunrise Boulevard, Tawa  5028",
+      "lv": 2730000.0,
+      "cv": 4320000.0,
+      "category": "Base - TWD full services without water meter",
+      "current": 14772.84,
+      "proposed": 16601.07,
+      "current_residual": -0.001873275710750022,
+      "proposed_residual": 0.004034883804706624
+    },
+    {
+      "id": 1980133,
+      "address": "30 Owen Street, Newtown  6021",
+      "lv": 1250000.0,
+      "cv": 9750000.0,
+      "category": "Base - Full service with water meter SLC",
+      "current": 33341.48,
+      "proposed": 9849.66,
+      "current_residual": -0.003394545870833099,
+      "proposed_residual": -0.0017151681677205488
+    },
+    {
+      "id": 1065855,
+      "address": "1 Coates Street, Tawa  5028",
+      "lv": 420000.0,
+      "cv": 890000.0,
+      "category": "Base - Full services SLN",
+      "current": 3043.48,
+      "proposed": 2619.22,
+      "current_residual": 0.0010029594022853416,
+      "proposed_residual": 0.005856283632510895
+    },
+    {
+      "id": 1131214,
+      "address": "9 Newtown Avenue, Newtown  6021",
+      "lv": 400000.0,
+      "cv": 860000.0,
+      "category": "Base - Full services SLC",
+      "current": 2940.9,
+      "proposed": 2498.08,
+      "current_residual": 0.010182634928241896,
+      "proposed_residual": 0.008517378838860168
+    },
+    {
+      "id": 1101621,
+      "address": "155 The Ridgeway, Mornington  6021",
+      "lv": 700000.0,
+      "cv": 1100000.0,
+      "category": "Base - Full services SLC",
+      "current": 3761.6,
+      "proposed": 4254.46,
+      "current_residual": -0.0032547692781008664,
+      "proposed_residual": 0.0018115298817065195
+    }
+  ]
+}

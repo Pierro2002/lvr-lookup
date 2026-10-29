@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1878000,
+    "address": "185A Mark Avenue, Grenada Village  6037",
+    "council_current": 4548.12,
+    "council_proposed": 2943.32,
+    "estimated_current": 4548.12,
+    "estimated_proposed": 2943.32,
+    "annual_saving_error": 0.0
+  },
+  {
+    "id": 1108569,
+    "address": "20 Belvedere Road, Hataitai  6021",
+    "council_current": 3522.23,
+    "council_proposed": 5133.91,
+    "estimated_current": 3522.23,
+    "estimated_proposed": 5133.92,
+    "annual_saving_error": -0.01
+  },
+  {
+    "id": 1990591,
+    "address": "19 Rua Kai Way, Brooklyn  6021",
+    "council_current": 3146.07,
+    "council_proposed": 3021.51,
+    "estimated_current": 3146.07,
+    "estimated_proposed": 3021.52,
+    "annual_saving_error": -0.01
+  },
+  {
+    "id": 1067113,
+    "address": "19 Mahoe Street, Tawa  5028",
+    "council_current": 2804.1,
+    "council_proposed": 2064.76,
+    "estimated_current": 2804.1,
+    "estimated_proposed": 2064.76,
+    "annual_saving_error": 0.0
+  },
+  {
+    "id": 1164067,
+    "address": "18 Cambrian Street, Churton Park  6037",
+    "council_current": 2496.34,
+    "council_proposed": 2123.07,
+    "estimated_current": 2496.34,
+    "estimated_proposed": 2123.07,
+    "annual_saving_error": 0.0
+  },
+  {
+    "id": 1111320,
+    "address": "7 - 139 Queens Drive, Lyall Bay  6022",
+    "council_current": 1915.0,
+    "council_proposed": 2073.89,
+    "estimated_current": 1915.0,
+    "estimated_proposed": 2073.89,
+    "annual_saving_error": 0.0
+  },
+  {
+    "id": 1852058,
+    "address": "1014 - 74 Taranaki Street, Te Aro  6011",
+    "council_current": 1504.64,
+    "council_proposed": 998.89,
+    "estimated_current": 1504.64,
+    "estimated_proposed": 998.89,
+    "annual_saving_error": 0.0
+  },
+  {
+    "id": 1875712,
+    "address": "28 - 99 Dixon Street, Te Aro  6011",
+    "council_current": 85.49,
+    "council_proposed": 114.07,
+    "estimated_current": 85.49,
+    "estimated_proposed": 114.07,
+    "annual_saving_error": 0.0
+  }
+]
