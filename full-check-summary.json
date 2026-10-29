@@ -1,0 +1,17 @@
+{
+  "source_accounts": 77355,
+  "statuses": {
+    "ok": 77157,
+    "council_not_found": 197,
+    "council_no_comparison": 1
+  },
+  "newtown_accounts": 2461,
+  "newtown_statuses": {
+    "ok": 2455,
+    "council_not_found": 6
+  },
+  "annual_differences_over_1_dollar": 619,
+  "direction_changes": 173,
+  "retrieval_started": "2026-10-29T02:33:38.375746+00:00",
+  "retrieval_finished": "2026-10-29T05:18:19.903763+00:00"
+}
