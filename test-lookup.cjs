@@ -9,4 +9,5 @@ for(const [query,id] of [['8 rintoul st','1131997'],['8a lipman st','1127865'],[
 assert.equal(nodes.get('annual').textContent,'$442.82');assert.equal(nodes.get('weekly').textContent,'$8.52');
 nodes.get('query').value='rintoul st';vm.runInContext('search()',ctx);assert.ok(nodes.get('matches').children.length>1);assert.ok(nodes.get('matches').children.every(e=>e.children.some(c=>c.className==='result-amount')));
 nodes.get('query').value='zzzz-no-such-property';vm.runInContext('search()',ctx);assert.ok(nodes.get('status').textContent.startsWith('No matching'));assert.equal(nodes.get('property').hidden,true);
+nodes.get('query').value='1206560';vm.runInContext('search()',ctx);assert.equal(nodes.get('figures').hidden,true);assert.equal(nodes.get('exception').hidden,false);assert.ok(nodes.get('exception').textContent.includes('property not found'));
 console.log('All precomputed arithmetic, unique-account, automatic result, multi-result and no-match checks passed');
